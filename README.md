@@ -1,2 +1,7 @@
 # NLA-project
-NLA 2019/2020 team 24 project
+
+## Team 24:
+### Vitaly Protasov, Kristina Ivanova, Veronika Kuznetsova
+
+
+NLA 2019/2020 
